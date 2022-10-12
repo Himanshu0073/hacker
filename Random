@@ -1,0 +1,30 @@
+#include <iostream>
+using namespace std;
+
+
+int main()
+{
+      int i,n,j;
+      char s;
+
+      cout<<"Enter the Value of N : ";
+      cin>>n;
+
+      cout<<"Enter the Value of S : ";
+      cin>>s;
+
+      for(i=1;i<=n;i++)
+       {
+              for(j=1;j<=n;j++)
+          {
+              if(i==1||i==n||j==1||j==n)
+              cout<<" "<<s;
+
+              else
+              cout<<"  ";
+         }
+       cout<<"\n";
+     }
+
+     return 0;
+}
