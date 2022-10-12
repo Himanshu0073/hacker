@@ -1,3 +1,5 @@
+//happy hacktoberfest
+
 class SieveOfEratosthenes {
 	void sieveOfEratosthenes(int n)
 	{
