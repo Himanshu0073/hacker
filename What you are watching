@@ -1,0 +1,15 @@
+import time
+
+import pyautogui
+
+while True:
+
+screenshots = [pyautogui.locateCenterOnScreen ("play.png"), pyautogui.locateCenterOnScreen ("tiktok.png")]
+
+for i in screenShots:
+
+if i is not None:
+
+pyautogui.hotkey("ctrl", "w")
+
+time.sleep(5)
