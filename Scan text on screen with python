@@ -1,14 +1,23 @@
 // happy hacktoberfest//2022 happy hacktober fest
 //celebrating hactoberfest
 // happy hacktoberfest
+
 // happy hacktoberfest 2022
+
+//happy hacktoberfest 2022
+
+//happy hactoberfest 2022 and forever
+
+
+// happy hacktober fest
+
 
 import time
 import cv2
 import mss
 import numpy
 import pytesseract
-
+//happy hacktober fest
 
 mon = {'top': 0, 'left': 0, 'width': 150, 'height': 150}
 
