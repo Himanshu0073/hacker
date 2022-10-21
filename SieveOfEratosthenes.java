@@ -1,7 +1,7 @@
 //happy hacktoberfest
 //participate hactoberfest
 // happy hacktoberfest
-
+// happy hacktober fest
 
 class SieveOfEratosthenes {
 	void sieveOfEratosthenes(int n)
