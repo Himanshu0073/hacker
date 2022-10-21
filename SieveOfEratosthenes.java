@@ -1,12 +1,22 @@
 //happy hacktoberfest
 //participate hactoberfest
 // happy hacktoberfest
+// happy hacktoberfest 2022
+
+//happy hacktoberfest 2022
+
+
+//happy hactoberfest 2022 and forever
+
+
+// happy hacktober fest
+
 
 
 class SieveOfEratosthenes {
 	void sieveOfEratosthenes(int n)
 	{
-
+//happy hacktober fest
 		boolean prime[] = new boolean[n + 1];
 		for (int i = 0; i <= n; i++)
 			prime[i] = true;
