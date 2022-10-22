@@ -19,7 +19,7 @@ import mss
 import numpy
 import pytesseract
 //happy hacktober fest
-
+//happy hacktoberfest
 mon = {'top': 0, 'left': 0, 'width': 150, 'height': 150}
 
 with mss.mss() as sct:
